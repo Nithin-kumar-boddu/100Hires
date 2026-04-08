@@ -5,7 +5,12 @@
 5. Installed Git for Windows so Git can be used through Cursor IDE.
 6. Verified the Git version in Command Prompt:
    - git --version
-   - git version 2.53.0.windows.2
+   output : 
+   git version 2.53.0.windows.2
+  Configure Git Identity
+  git config --global user.name "Nithin-Kumar-boddu"
+  git config --global user.email "Nithinkumarpersonal@gmail.com"
+
 7. Cloned the repository and performed the following tasks:
    - Command used: git clone https://github.com/Nithin-kumar-boddu/100Hires.git "C:\Users\nithi\OneDrive\Documents\100Hires"
    - Opened README.md in Cursor (Cursor README.md).
@@ -16,10 +21,15 @@ Note: Git commands were taken with the help of ChatGPT.
 # Issues Faced & Solutions
 
 1. Claude Code login required Pro/Max subscription  
-   → Solution: Installed extension and documented limitation.
+   -> Solution: Installed extension and documented limitation.
 
 2. Git not recognized initially  
-   → Solution: Installed Git for Windows and verified using git --version.
+   -> Solution: Installed Git for Windows and verified using git --version.
 
 3. Repository cloning path confusion  
-   → Solution: Used full path while cloning and verified files in Cursor.
+   -> Solution: Used full path while cloning and verified files in Cursor.
+   
+4. Git author identity unknown during commit   
+   -> Solution: Configured Git global username and email:
+   git config --global user.name "Nithin-Kumar-boddu"
+   git config --global user.email "nithinkumarpersonal@gmail.com"
