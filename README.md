@@ -1,35 +1,54 @@
-1. Installed Cursor IDE from Cursor Platform and signed in to the Cursor account.
-2. Added the Claude Code extension from Anthropic. Signing in to Claude Code requires a Pro/Max subscription, so only installing the extension was completed so far.
-3. Added Codex from OpenAI and signed in via Google.
-4. Signed in to GitHub and created the "100Hires" repository; the README.md file was added during creation.
-5. Installed Git for Windows so Git can be used through Cursor IDE.
-6. Verified the Git version in Command Prompt:
-   - git --version
-   output : 
-   git version 2.53.0.windows.2
-  Configure Git Identity
-  git config --global user.name "Nithin-Kumar-boddu"
-  git config --global user.email "Nithinkumarpersonal@gmail.com"
+Cold Outreach Pipeline for B2B SaaS
+Research Focus
 
-7. Cloned the repository and performed the following tasks:
-   - Command used: git clone https://github.com/Nithin-kumar-boddu/100Hires.git "C:\Users\nithi\OneDrive\Documents\100Hires"
-   - Opened README.md in Cursor (Cursor README.md).
-8. I have now written the changes needed to proceed and will commit them to Git.
+This project analyzes how B2B SaaS companies design and execute cold outreach pipelines.
 
-Note: Git commands were taken with the help of ChatGPT.
+The goal is to understand how top practitioners:
 
-# Issues Faced & Solutions
+identify high-intent prospects
+craft personalized messaging
+structure outreach sequences
+optimize for reply rates
 
-1. Claude Code login required Pro/Max subscription  
-   -> Solution: Installed extension and documented limitation.
+This research is based on real operator content (LinkedIn posts, YouTube discussions, and practical breakdowns), not theoretical frameworks.
 
-2. Git not recognized initially  
-   -> Solution: Installed Git for Windows and verified using git --version.
+Why This Topic
 
-3. Repository cloning path confusion  
-   -> Solution: Used full path while cloning and verified files in Cursor.
-   
-4. Git author identity unknown during commit   
-   -> Solution: Configured Git global username and email:
-   git config --global user.name "Nithin-Kumar-boddu"
-   git config --global user.email "nithinkumarpersonal@gmail.com"
+Cold outreach remains one of the most direct and controllable growth channels in B2B SaaS.
+
+However, the approach has evolved:
+
+from mass emailing → signal-based targeting
+from generic personalization → context-driven messaging
+from long emails → concise, high-impact communication
+
+Understanding these shifts is critical for building effective outbound systems.
+
+What This Repository Contains
+Curated list of 10 high-signal outreach experts
+Real content collected from practitioners
+Structured breakdown of outreach strategies
+Synthesized pipeline based on observed patterns
+Start Here
+
+If you're reviewing this repository:
+
+Begin with /research/sources.md → to see selected experts
+Explore /research/linkedin-posts/ and /youtube-transcripts/ → raw research material
+Check /research/insights/ → synthesized findings and patterns
+
+This repository is structured to move from raw research → actionable insights.
+
+Project Structure
+/research
+  ├── sources.md
+  ├── linkedin-posts/
+  ├── youtube-transcripts/
+  ├── insights/
+Current Status
+Research direction defined
+Repository structure initialized
+Expert selection and data collection in progress
+Goal
+
+To build a practical understanding of modern cold outreach systems that can later be developed into a real-world playbook for B2B SaaS growth.
