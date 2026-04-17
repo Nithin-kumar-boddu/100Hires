@@ -60,3 +60,13 @@ If the message is:
 it gets ignored.
 
 Lower friction → higher replies.
+
+## 6. Multi-Channel Outreach is Becoming Standard
+
+Cold outreach is no longer limited to email.
+
+Combining channels like:
+- email  
+- LinkedIn  
+
+improves recognition and response rates.
