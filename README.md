@@ -2,9 +2,15 @@
 
 ## What I’m Doing
 
+## What I’m Doing
+
 This project is my attempt to understand how cold outreach actually works in B2B SaaS.
 
-Instead of reading theory, I’m looking at how people who do this every day approach it — how they find prospects, write emails, and get replies.
+Instead of relying on theory, I’m studying how people who actively do this approach it — how they find prospects, write messages, and get replies.
+
+I’m collecting real content from practitioners (YouTube, LinkedIn, etc.), breaking it down into key ideas, and then identifying patterns across different sources.
+
+The goal is to move from raw content → patterns → a simple, practical outreach system that can actually be used in real scenarios.
 
 ---
 
