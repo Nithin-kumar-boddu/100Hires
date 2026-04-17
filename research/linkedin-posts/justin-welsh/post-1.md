@@ -1,5 +1,5 @@
 ## Source  
-https://www.linkedin.com/in/justinwelsh/recent-activity/all/
+https://www.linkedin.com/in/justinwelsh
 
 ## Topic  
 Messaging / positioning / audience focus  
