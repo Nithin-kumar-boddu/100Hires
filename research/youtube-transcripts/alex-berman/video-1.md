@@ -1,19 +1,27 @@
-
-
 ## Source  
-https://www.youtube.com/watch?v=AApSKUGVw0E  
+https://www.youtube.com/watch?v=AApSKUGVw0E 
 
 ## Topic  
-Cold email tech stack and how outreach has changed in 2025  
+Cold email tech stack and how outreach has evolved in 2025  
+
+---
+
+## Transcript (Excerpt)  
+
+"Cold email in 2025... memorize one word: infrastructure.  
+You have to build a connection of tools to make sure emails hit inboxes properly.  
+The process includes lead pool, verification, customization, sending, and managing leads."
+
+Transcript extracted using YouTube transcript tools.
 
 ---
 
 ## Key Ideas  
 
-- Cold outreach is no longer just about writing good emails — infrastructure matters more now  
-- Deliverability plays a major role in whether emails even get seen  
-- Outreach should be treated as a system, not a one-time activity  
-- Personalization can be supported using tools, but the structure still matters  
+- Cold outreach is no longer just about writing emails — infrastructure is critical  
+- Deliverability determines whether emails even reach the inbox  
+- Outreach should be treated as a full system, not a single action  
+- Personalization can be supported using tools but still needs structure  
 
 ---
 
@@ -26,19 +34,19 @@ Cold email tech stack and how outreach has changed in 2025
    - Ensure emails are valid before sending  
 
 3. Personalization  
-   - Customize messages based on prospect data  
+   - Customize messages using available data  
 
-4. Sending system  
-   - Use proper tools/infrastructure to send emails at scale  
+4. Sending infrastructure  
+   - Use proper systems/tools to ensure deliverability  
 
 5. Lead management  
-   - Track responses and manage conversations (CRM or similar)  
+   - Track and manage responses using CRM or similar tools  
 
 ---
 
 ## My Observation  
 
-The biggest shift is that cold outreach is no longer just copywriting-driven.  
-It has become a system where backend setup (deliverability, tools, data flow) is just as important as the message itself.  
+Cold outreach has clearly shifted from being copywriting-focused to system-focused.  
+Earlier, success depended mainly on writing good emails. Now, success depends on how well the entire pipeline is set up — especially deliverability and data flow.  
 
-Also, instead of focusing only on writing better emails, the focus is moving toward building a reliable pipeline that consistently reaches the inbox.
+Also, the process is becoming more structured, similar to a system rather than isolated campaigns
