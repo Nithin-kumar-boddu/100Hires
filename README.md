@@ -1,6 +1,5 @@
 # Cold Outreach Pipeline for B2B SaaS
 
-## What I’m Doing
 
 ## What I’m Doing
 
